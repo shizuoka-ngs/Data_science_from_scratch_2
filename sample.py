@@ -1,6 +1,0 @@
-# 蛇足ですが本文で documentが定義されていないため、”単語の出現数カウント"が何をしているかイメージし難い人もいるかも
-# そこで著作権フリーのデータベース（lit2go）にあったシャーロックホームズの一文から単純な単語リストを（document）を作ってみました
-# このブロックを実行後に単語の出現数カウント"を実行すると少しだけdefaultdictで何をやっているのかわかりやすいかも
-
-sample = "When I glance over my notes and records of the Sherlock Holmes cases between the years ‘82 and ‘90, I am faced by so many which present strange and interesting features that it is no easy matter to know which to choose and which to leave. Some, however, have already gained publicity through the papers, and others have not offered a field for those peculiar qualities which my friend possessed in so high a degree, and which it is the object of these papers to illustrate. Some, too, have baffled his analytical skill, and would be, as narratives, beginnings without an ending, while others have been but partially cleared up, and have their explanations founded rather upon conjecture and surmise than on that absolute logical proof which was so dear to him. There is, however, one of these last which was so remarkable in its details and so startling in its results that I am tempted to give some account of it in spite of the fact that there are points in connection with it which never have been, and probably never will be, entirely cleared up."
-document = sample.split(" ")
